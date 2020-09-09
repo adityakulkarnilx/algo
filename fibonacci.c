@@ -7,6 +7,8 @@ int main()
    // Initialize
    sum = 0;
    add = 0;
+   // new branch
+ 
    // Print first 6 numbers of the fibonacci series
    for( number=0; number< 6; number++ )
    {
